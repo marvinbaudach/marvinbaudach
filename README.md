@@ -2,7 +2,7 @@
 
 **AI Software Engineer** · Leukerbad VS, Switzerland
 
-> **Open to new roles · 80% · remote or hybrid in Switzerland**
+> **Open to new roles · remote or hybrid in Switzerland**
 
 I build software with coding agents — specified before it is written, tested
 before it is merged, and reviewed by gates that run in CI rather than by good
